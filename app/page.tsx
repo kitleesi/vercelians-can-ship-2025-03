@@ -1,5 +1,3 @@
-// For an initial starting point, insert your GitHub username between the double quotes here.
-// Letter casing doesn't matter.
 import { EmptyState } from "./components/empty-state";
 import { NotFound } from "./components/not-found";
 import { Profile } from "./components/profile";
